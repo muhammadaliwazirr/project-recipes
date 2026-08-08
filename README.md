@@ -1,1 +1,1 @@
-# project-recipes
+This is my first project, in which I created a home page and three other pages containing different recipes. I then linked these pages to the home page so that, whenever I want to access a recipe, I can go to the home page, click on the name of the recipe, and be redirected to the page containing the recipe’s content.

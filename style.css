@@ -1,0 +1,111 @@
+.homepage{
+    background-color: #C4A484;
+}
+.biryani{
+    background-color: #f8d57c;
+    margin: 20px;
+}
+.korma{
+    background-color: rgb(140, 26, 26);
+}
+.pasta{
+    background-color: rgb(130, 164, 78);
+}
+
+
+
+
+
+.heading{
+    text-align: center;
+    margin: 15px 60px;
+    border-radius: 10px;
+    padding: 15px;
+    margin-top: 60px;
+    margin-bottom: 80px;
+}
+.landingpage{
+    background-color:bisque;
+    font-size: 40px;
+}
+.biryani-top{
+    color:#f8d57c;
+    background-color:rgb(66, 51, 51);
+    font-size: 40px;
+    letter-spacing: 2px;
+}
+.korma-top{
+    color: rgb(140, 26, 26);
+    background-color: #f8d57c;
+    font-size: 40px;
+    letter-spacing: 2px;
+}
+.pasta-top{
+    color:rgb(68, 66, 66) ;
+    background-color: lightsteelblue;
+    font-size: 40px;
+    letter-spacing: 2px;
+}
+
+
+
+
+.biryani-color{
+    color: rgb(255, 246, 195);
+    background-color:rgb(66, 51, 51);
+}
+.korma-color{
+    color: rgb(140, 26, 26);
+    background-color: #f8d57c;
+}
+.pasta-color{
+    color:rgb(68, 66, 66) ;
+    background-color: lightsteelblue; 
+}
+
+
+
+
+.content{
+
+    padding: 12px 35px;
+    font-size: 16px;
+    display: block;
+    border-radius: 10px;
+    padding-top: 2px;
+    padding-bottom: 25px;
+}
+.page-selector{
+    background-color: bisque;
+    padding: 60px 40px;
+    margin: 15px 60px;
+    color: azure;
+    font-size: 25px;
+    border-radius: 10px;
+    margin-top: 60px;
+}
+.selector{
+    background-color:#d9bc9d;
+    padding: 18px 60px;
+    font-size: 22px;
+    display: block;
+    text-align: center;
+    border-radius: 10px;
+    color: black;
+    letter-spacing: 4px;
+}
+.back{
+    text-align: center;
+    padding-top: 20px;
+    margin: 20px 150px;
+}
+
+
+
+
+h5.end{
+    margin: 15px 60px;
+    margin-top: 20px;
+    background-color:bisque;
+}
+
